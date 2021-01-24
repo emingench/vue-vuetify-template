@@ -9,7 +9,7 @@
         class="pa-4 pt-7"
         src="./assets/logo.png"
         height="170"
-        gradient="to top right, rgba(19,84,122,.5), rgba(128,208,199,.8)"
+       
       >
       </v-img>
 
